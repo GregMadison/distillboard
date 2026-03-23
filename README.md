@@ -15,7 +15,7 @@ It helps users collect, pin, rearrange, and export the most important parts of l
 
 DistillBoard processes page content only to let the user select and organize the information they want to keep.
 
-Privacy Policy: [Soon]
+Privacy Policy: https://gist.github.com/GregMadison/11c0694d64b0dfca265eb2488d075e7b
 
 ## Status
 
